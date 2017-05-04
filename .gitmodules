@@ -1,0 +1,3 @@
+[submodule "src/Orchard.Web/Modules/Vandelay.Industries"]
+	path = src/Orchard.Web/Modules/Vandelay.Industries
+	url = https://github.com/Lombiq/vandelay
